@@ -1,0 +1,5 @@
+D:\Games\visual studio\MethodsHomeWork\07GenericArraySort\bin\Debug\07GenericArraySort.exe.config
+D:\Games\visual studio\MethodsHomeWork\07GenericArraySort\bin\Debug\07GenericArraySort.exe
+D:\Games\visual studio\MethodsHomeWork\07GenericArraySort\bin\Debug\07GenericArraySort.pdb
+D:\Games\visual studio\MethodsHomeWork\07GenericArraySort\obj\Debug\07GenericArraySort.exe
+D:\Games\visual studio\MethodsHomeWork\07GenericArraySort\obj\Debug\07GenericArraySort.pdb

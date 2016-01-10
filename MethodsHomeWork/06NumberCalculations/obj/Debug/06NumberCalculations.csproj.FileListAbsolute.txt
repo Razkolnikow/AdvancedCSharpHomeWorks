@@ -1,0 +1,6 @@
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\bin\Debug\06NumberCalculations.exe.config
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\obj\Debug\06NumberCalculations.csprojResolveAssemblyReference.cache
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\bin\Debug\06NumberCalculations.exe
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\bin\Debug\06NumberCalculations.pdb
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\obj\Debug\06NumberCalculations.exe
+D:\Games\visual studio\MethodsHomeWork\06NumberCalculations\obj\Debug\06NumberCalculations.pdb

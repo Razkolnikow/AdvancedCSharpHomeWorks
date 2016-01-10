@@ -1,0 +1,5 @@
+D:\Games\visual studio\MethodsHomeWork\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe.config
+D:\Games\visual studio\MethodsHomeWork\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe
+D:\Games\visual studio\MethodsHomeWork\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.pdb
+D:\Games\visual studio\MethodsHomeWork\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.exe
+D:\Games\visual studio\MethodsHomeWork\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.pdb

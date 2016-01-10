@@ -1,0 +1,6 @@
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe.config
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.pdb
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.csprojResolveAssemblyReference.cache
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.exe
+D:\Games\visual studio\MethodsHomeWork\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.pdb

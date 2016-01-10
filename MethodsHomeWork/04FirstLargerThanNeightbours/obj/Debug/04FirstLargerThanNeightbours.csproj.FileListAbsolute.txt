@@ -1,0 +1,8 @@
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\bin\Debug\04FirstLargerThanNeightbours.exe.config
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\bin\Debug\04FirstLargerThanNeightbours.exe
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\bin\Debug\04FirstLargerThanNeightbours.pdb
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\bin\Debug\03LargerThanNeighbours.exe
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\bin\Debug\03LargerThanNeighbours.pdb
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\obj\Debug\04FirstLargerThanNeightbours.csprojResolveAssemblyReference.cache
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\obj\Debug\04FirstLargerThanNeightbours.exe
+D:\Games\visual studio\MethodsHomeWork\04FirstLargerThanNeightbours\obj\Debug\04FirstLargerThanNeightbours.pdb

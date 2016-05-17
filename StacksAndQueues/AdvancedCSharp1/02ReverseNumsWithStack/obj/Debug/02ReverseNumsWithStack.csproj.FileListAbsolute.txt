@@ -1,0 +1,5 @@
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\02ReverseNumsWithStack\bin\Debug\02ReverseNumsWithStack.exe.config
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\02ReverseNumsWithStack\bin\Debug\02ReverseNumsWithStack.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\02ReverseNumsWithStack\bin\Debug\02ReverseNumsWithStack.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\02ReverseNumsWithStack\obj\Debug\02ReverseNumsWithStack.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\02ReverseNumsWithStack\obj\Debug\02ReverseNumsWithStack.pdb

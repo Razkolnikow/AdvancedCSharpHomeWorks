@@ -1,0 +1,5 @@
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\03\bin\Debug\03.exe.config
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\03\bin\Debug\03.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\03\bin\Debug\03.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\03\obj\Debug\03.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\03\obj\Debug\03.pdb

@@ -1,0 +1,6 @@
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\bin\Debug\01ExerciseIOManager.exe.config
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\bin\Debug\01ExerciseIOManager.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\bin\Debug\01ExerciseIOManager.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\obj\Debug\01ExerciseIOManager.csprojResolveAssemblyReference.cache
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\obj\Debug\01ExerciseIOManager.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\01ExerciseIOManager\obj\Debug\01ExerciseIOManager.pdb

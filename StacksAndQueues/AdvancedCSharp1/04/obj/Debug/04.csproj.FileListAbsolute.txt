@@ -1,0 +1,8 @@
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\bin\Debug\04.exe.config
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\bin\Debug\04.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\bin\Debug\04.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\obj\Debug\04.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\obj\Debug\04.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+c:\users\raskolnikov\documents\visual studio 2015\Projects\AdvancedCSharp1\04\obj\Debug\04.csprojResolveAssemblyReference.cache

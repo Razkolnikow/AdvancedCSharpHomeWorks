@@ -41,7 +41,7 @@ namespace _04
                     {
                         max = stack.Max();
                     }
-					else if (element == max && stack.Count == 0)
+		    else if (element == max && stack.Count == 0)
                     {
                         max = 0;
                     }
